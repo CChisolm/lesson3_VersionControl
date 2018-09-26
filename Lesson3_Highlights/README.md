@@ -14,7 +14,7 @@ Cameron Chisolm
 In this assignment FIVE key concepts learned in Lesson 3 are briefly summarized on a README.md template.
 
 ## View Project:
-https://cchisolm.github.io/lesson3_VersionControl/
+https://cchisolm.github.io/lesson3_VersionControl/Lesson3_Highlights
 
 ## Lessons Learned in the Assignment:
 1. Version Control Systems also known as VCS’s make the world of web development so much easier. They keep track of all versions of a document that a user works on or creates. It is one main repository for all the projects files. One of the best parts of version control systems is that they allow teams to edit and update the same projects without overwriting each other’s work. This is beneficial because it allows companies to continuously make money if they experience problems during development. Due to the fact, they are able to easily go back and look at where the mistakes are and fix them and not have to take much time out of production to fix the problems.
